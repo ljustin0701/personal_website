@@ -1,0 +1,59 @@
+div.header h1 {
+	color:#847A7A;
+}
+
+.h2-headers {
+	color:#847A7A;
+}
+
+.row-right-margin {
+	margin-right:10px;
+}
+
+a.links {
+	font-size:20px;
+	color:#847A7A;
+	text-decoration:none;
+}
+
+a.links:hover {
+	background-color:#f2f2f2;
+}
+
+a.here-links {
+	font-size:20px;
+	color:#847A7A;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+a.here-links:hover {
+	background-color:#f2f2f2;
+}
+
+.col-xs-1{
+	margin-left:23%;
+}
+
+.col-sm-1 {
+	margin-left:8.3%;
+}
+
+div.container ul li {
+	font-size:20px;
+}
+
+.link-tabs {
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+.img-github {
+	width:30px;
+	height:30px;
+}
+
+ul li.skills-list-item {
+	margin-top:15px;
+	font-weight:bold;
+}
